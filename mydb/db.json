@@ -1,0 +1,35 @@
+{
+    "contacts": [{
+            "surname": "Борисовец",
+            "name": "Ульяна",
+            "otchestvo": "Борисовна",
+            "phone": "8 914 731 94 55",
+            "fav": true,
+            "id": 1
+        },
+        {
+            "surname": "Кугук",
+            "name": "Алексей",
+            "otchestvo": "Даниловичь",
+            "phone": "8 916 582 35 65",
+            "fav": true,
+            "id": 2
+        },
+        {
+            "surname": "Рагузина",
+            "name": "Арина",
+            "otchestvo": "Викторовна",
+            "phone": "8 924 581 32 65",
+            "fav": true,
+            "id": 5
+        },
+        {
+            "surname": "Куречко",
+            "name": "Андрей",
+            "otchestvo": "Семенович",
+            "phone": "8 917 371 25 36",
+            "fav": true,
+            "id": 6
+        }
+    ]
+}
